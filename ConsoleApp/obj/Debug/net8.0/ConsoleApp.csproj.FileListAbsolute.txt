@@ -1,0 +1,14 @@
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/tenzinchosang/Documents/calc-c#/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
